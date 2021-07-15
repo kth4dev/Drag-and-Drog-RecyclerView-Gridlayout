@@ -1,0 +1,2 @@
+rootProject.name = "Drag & Drop GridLayout"
+include ':app'
